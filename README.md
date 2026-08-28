@@ -1,34 +1,12 @@
-# Goodhead Boma Golly
+💫 About Me:
+Goodhead Boma Golly<br><br>Product designer who also builds. I design in Figma, then turn the design into a real product myself: frontend, backend, payments, and deployment. No handoff.<br><br>Based in Port Harcourt, Nigeria. Open to remote work.<br><br>[Portfolio](https://goodhead.design) · [LinkedIn](https://linkedin.com/in/goodhead) · goodheadgolly@gmail.com<br><br> 🛠️ What I do<br><br>I take a product from a blank page to something people can pay for. That means the Figma file, the React code, the Supabase database, the Stripe integration, and the server it runs on. I use AI development tools (Claude, Google AI Studio) to move fast without giving up the parts that need a human eye: the flow, the copy, the edge cases.<br><br> 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
+🚀 Projects<br><br> **AI Content Studio** <br>A client had an idea and nothing else. I designed it, built it, secured it, and shipped it alone. It now has 70+ paying users and steady monthly revenue, with zero spent on ads. Along the way I fixed a Stripe webhook that was silently failing to upgrade paying users, and locked down user data with Row Level Security so no one could see another user's account.<br><br> **HeliosNG**<br>An electric bike delivery service in Abuja, powered by solar charging stations. I designed the product and built the mobile and iOS app, plus the systems that run it. Ongoing work.<br><br> **Yare's Height Learning Hub**<br>A learning platform used by 100+ students and several instructors. I designed the student facing experience and the flows connecting students, instructors, and admins, and I still teach UI/UX there.<br><br>  🎓 Background<br><br>BSc Mathematics and Statistics, University of Port Harcourt. I've taught UI/UX to 50+ students through an 800 hour curriculum at Decent I.T Services, and I currently teach at Yare's Height Learning Hub.<br><br>## 📬 Get in touch<br><br>I'm looking for product design or frontend developer roles, or projects where someone needs a designer who can also ship. Reach me at contact@goodhead.design<br>
 
-Product designer who also builds. I design in Figma, then turn the design into a real product myself: frontend, backend, payments, and deployment. No handoff.
 
-Based in Port Harcourt, Nigeria. Open to remote work.
+🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g00dhead__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goodhead/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@goodhead.design) 
 
-[Portfolio](https://goodhead.design) · [LinkedIn](https://linkedin.com/in/goodhead) · goodheadgolly@gmail.com
 
-## 🛠️ What I do
 
-I take a product from a blank page to something people can pay for. That means the Figma file, the React code, the Supabase database, the Stripe integration, and the server it runs on. I use AI development tools (Claude, Google AI Studio) to move fast without giving up the parts that need a human eye: the flow, the copy, the edge cases.
-
-## 🚀 Projects
-
-**AI Content Studio**
-A client had an idea and nothing else. I designed it, built it, secured it, and shipped it alone. It now has 70+ paying users and steady monthly revenue, with zero spent on ads. Along the way I fixed a Stripe webhook that was silently failing to upgrade paying users, and locked down user data with Row Level Security so no one could see another user's account.
-
-**HeliosNG**
-An electric bike delivery service in Abuja, powered by solar charging stations. I designed the product and built the mobile and iOS app, plus the systems that run it. Ongoing work.
-
-**Yare's Height Learning Hub**
-A learning platform used by 100+ students and several instructors. I designed the student facing experience and the flows connecting students, instructors, and admins, and I still teach UI/UX there.
-
-## 🧰 Tools
-
-Figma, Framer, React, Tailwind CSS, Supabase, Stripe, Claude, Google AI Studio, Vercel.
-
-## 🎓 Background
-
-BSc Mathematics and Statistics, University of Port Harcourt. I've taught UI/UX to 50+ students through an 800 hour curriculum at Decent I.T Services, and I currently teach at Yare's Height Learning Hub.
-
-## 📬 Get in touch
-
-I'm looking for product design or frontend developer roles, or projects where someone needs a designer who can also ship. Reach me at goodheadgolly@gmail.com.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
