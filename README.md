@@ -4,7 +4,7 @@ Product designer who also builds. I design in Figma, then turn the design into a
 
 Based in Port Harcourt, Nigeria. Open to remote work.
 
-[Portfolio](https://goodhead.design) · [LinkedIn](https://linkedin.com/in/goodhead) · goodheadgolly@gmail.com
+[Portfolio](https://goodhead.design) · [LinkedIn](https://linkedin.com/in/goodhead) · [Email](contact@goodhead.design)
 
 <br>
 
@@ -16,6 +16,8 @@ I take a product from a blank page to something people can pay for. That means t
 
 ## 🧰 Tools I Use
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,7 +51,7 @@ BSc Mathematics and Statistics, University of Port Harcourt. I've taught UI/UX t
 
 ## 📬 Get In Touch
 
-I'm looking for product design or frontend developer roles, or projects where someone needs a designer who can also ship.
+I'm looking for product design engineer, front-end developer roles, AI full stack roles or projects where someone needs a designer who can also ship.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/g00dhead__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goodhead/)
